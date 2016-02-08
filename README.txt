@@ -1,5 +1,7 @@
 Children Education Game "Let's Count!"
 
+![Mockup for feature A](https://github.com/Katy-katy/ANDROID_APP-Children-Education-Game-Let-s-Count-/blob/master/Screen_shot.png)
+
 This android app was written as the finale project for WRITING APPS FOR THE ANDROID IN JAVA class at Foothill Community College.
 
 Specification.pdf was written before the app, thus, the specification includes drawings of the screens, not the real screenshots. 
