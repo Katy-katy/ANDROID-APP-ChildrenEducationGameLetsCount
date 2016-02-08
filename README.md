@@ -1,4 +1,4 @@
-Children Education Game "Let's Count!"
+##Children Education Game "Let's Count!"
 
 ![Mockup for feature A](https://github.com/Katy-katy/ANDROID_APP-Children-Education-Game-Let-s-Count-/blob/master/Screenshot_2015-12-18-10-44-35.png)
 
